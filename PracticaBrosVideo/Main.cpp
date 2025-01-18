@@ -5,9 +5,10 @@
 #include "CalculadoraSimple.h"
 #include "TemperatureCalculator.h"
 #include "WordGenerator.h"
+#include "NumberGamer.h"
 
 int main() {
-	write();
+	Main_NumberGamer();
 
 	return 0;
  }

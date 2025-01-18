@@ -130,12 +130,14 @@
     <ClCompile Include="CalculadoraSimple.cpp" />
     <ClCompile Include="HipotenusaCalculator.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="NumberGamer.cpp" />
     <ClCompile Include="TemperatureCalculator.cpp" />
     <ClCompile Include="WordGenerator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CalculadoraSimple.h" />
     <ClInclude Include="HipotenusaCalculator.h" />
+    <ClInclude Include="NumberGamer.h" />
     <ClInclude Include="TemperatureCalculator.h" />
     <ClInclude Include="WordGenerator.h" />
   </ItemGroup>

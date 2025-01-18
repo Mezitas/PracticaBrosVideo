@@ -1,2 +1,3 @@
-﻿  WordGenerator.cpp
+﻿  NumberGamer.cpp
+D:\PersonalProyect\PracticaBrosVideo\PracticaBrosVideo\NumberGamer.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   PracticaBrosVideo.vcxproj -> D:\PersonalProyect\PracticaBrosVideo\x64\Debug\PracticaBrosVideo.exe

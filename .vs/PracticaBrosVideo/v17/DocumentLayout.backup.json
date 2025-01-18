@@ -3,15 +3,12 @@
   "WorkspaceRootPath": "D:\\PersonalProyect\\PracticaBrosVideo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\WordGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\NumberGamer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\WordGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\NumberGamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -24,6 +21,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\TemperatureCalculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\TemperatureCalculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\WordGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|solutionrelative:PracticaBrosVideo\\WordGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B1776BD-BF2D-4B91-ADA3-AF49A36FB01F}|PracticaBrosVideo\\PracticaBrosVideo.vcxproj|D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\HipotenusaCalculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -49,22 +57,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "NumberGamer.h",
+              "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.h",
+              "RelativeDocumentMoniker": "PracticaBrosVideo\\NumberGamer.h",
+              "ToolTip": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.h",
+              "RelativeToolTip": "PracticaBrosVideo\\NumberGamer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-18T17:49:26.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberGamer.cpp",
+              "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.cpp",
+              "RelativeDocumentMoniker": "PracticaBrosVideo\\NumberGamer.cpp",
+              "ToolTip": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\NumberGamer.cpp*",
+              "RelativeToolTip": "PracticaBrosVideo\\NumberGamer.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T17:49:05.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
               "ViewState": "AgIAALsBAAAAAAAAAAAQwMwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-26T03:26:53.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T03:26:53.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WordGenerator.h",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.h",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\WordGenerator.h",
@@ -72,25 +105,24 @@
               "RelativeToolTip": "PracticaBrosVideo\\WordGenerator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-26T02:50:38.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T02:50:38.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "WordGenerator.cpp",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.cpp",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\WordGenerator.cpp",
               "ToolTip": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\WordGenerator.cpp",
               "RelativeToolTip": "PracticaBrosVideo\\WordGenerator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-26T02:47:59.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TemperatureCalculator.h",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\TemperatureCalculator.h",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\TemperatureCalculator.h",
@@ -103,20 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TemperatureCalculator.cpp",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\TemperatureCalculator.cpp",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\TemperatureCalculator.cpp",
               "ToolTip": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\TemperatureCalculator.cpp",
               "RelativeToolTip": "PracticaBrosVideo\\TemperatureCalculator.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-13T17:28:45.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CalculadoraSimple.cpp",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\CalculadoraSimple.cpp",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\CalculadoraSimple.cpp",
@@ -128,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CalculadoraSimple.h",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\CalculadoraSimple.h",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\CalculadoraSimple.h",
@@ -140,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HipotenusaCalculator.cpp",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\HipotenusaCalculator.cpp",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\HipotenusaCalculator.cpp",
@@ -152,20 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\Main.cpp",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\Main.cpp",
               "ToolTip": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\Main.cpp",
               "RelativeToolTip": "PracticaBrosVideo\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-13T00:14:15.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HipotenusaCalculator.h",
               "DocumentMoniker": "D:\\PersonalProyect\\PracticaBrosVideo\\PracticaBrosVideo\\HipotenusaCalculator.h",
               "RelativeDocumentMoniker": "PracticaBrosVideo\\HipotenusaCalculator.h",
